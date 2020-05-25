@@ -5,6 +5,9 @@ class Dog
   end
 end
 
+def dog_name
+  @dog
+end
+end
 
-
-# dog(fido)
+puts dog.name

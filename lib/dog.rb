@@ -7,3 +7,7 @@ def name
   this_dogs_name
   end
 end
+
+dog.new 
+#{dog_name}.name
+end
